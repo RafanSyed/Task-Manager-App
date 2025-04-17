@@ -50,11 +50,12 @@ A simple React Native **Task Manager** app built with Expo. It allows users to:
 
 5. **Run the app**
    ```bash
-   npm run ios
+   npx expo start
    ```
 
-   **OR**
    - Scan the QR code with the Expo Go app on your device
+   **OR**
+   press "i" on keyboard to open ios simulator
 
 ---
 
