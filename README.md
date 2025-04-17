@@ -57,6 +57,12 @@ A simple React Native **Task Manager** app built with Expo. It allows users to:
    **OR**
    press "i" on keyboard to open ios simulator
 
+
+   ![Screenshot 2025-04-17 at 10 41 58 AM](https://github.com/user-attachments/assets/248351d5-8b77-4725-b82a-9e6c52560d91)
+
+
+
+
 ---
 
 ## Project Structure
