@@ -45,17 +45,15 @@ A simple React Native **Task Manager** app built with Expo. It allows users to:
 
 4. **Install native dependencies**
    ```bash
-   expo install @react-native-community/slider @react-native-community/datetimepicker @react-navigation/native @react-navigation/bottom-tabs react-native-screens react-native-safe-area-context
-   ```
-
-   ```bash
-   npm install --save @react-navigation/native @react-navigation/bottom-tabs
+   npm install --save @react-native-community/slider @react-native-community/datetimepicker @react-navigation/native @react-navigation/bottom-tabs react-native-screens react-native-safe-area-context
    ```
 
 5. **Run the app**
    ```bash
    npm run ios
    ```
+
+   **OR**
    - Scan the QR code with the Expo Go app on your device
 
 ---
